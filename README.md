@@ -21,4 +21,5 @@ Proyek ini menerapkan konsep Modern Data Stack untuk memecah silo data dan mengh
 * Dashboard: Power BI Desktop
 
 ## Dashboard Preview
-<img width="1128" height="636" alt="image" src="https://github.com/user-attachments/assets/358048d3-8e9d-4069-9ada-9e8ccfabac15" />
+<img width="1163" height="652" alt="image" src="https://github.com/user-attachments/assets/fa5acc59-5057-4aea-9bb7-f771436e0a8d" />
+

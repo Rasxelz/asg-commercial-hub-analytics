@@ -11,14 +11,14 @@ Proyek ini menerapkan konsep Modern Data Stack untuk memecah silo data dan mengh
 5. Data Visualization (Power BI): Dashboard interaktif dua halaman yang menyajikan metrik pertumbuhan untuk level Direksi dan manajemen risiko untuk tim Leasing ASG.
 
 ## Temuan Bisnis Utama (Key Insights)
-Ramadan & Lebaran Spike (Maret 2026): Sektor F&B dan Fashion mengalami lonjakan pendapatan bulanan hingga 57.79% akibat momentum belanja hari raya di Indonesia.
-Krisis Finansial Sektor Entertainment: Sistem Peringatan Dini yang dibangun mendeteksi bahwa seluruh tenant jangkar di sektor Entertainment berada dalam status CRITICAL RISK karena Rent-to-Sales Ratio mereka melebihi 100% pada bulan Mei (biaya sewa lebih besar dari omzet).
-Deteksi Tenant Churn: Pipeline database berhasil merekam dan menangani anomali penutupan toko secara proaktif (Tenant ID 104 & 125) dengan status Churned/Closed.
+* Ramadan & Lebaran Spike (Maret 2026): Sektor F&B dan Fashion mengalami lonjakan pendapatan bulanan hingga 57.79% akibat momentum belanja hari raya di Indonesia.
+* Krisis Finansial Sektor Entertainment: Sistem Peringatan Dini yang dibangun mendeteksi bahwa seluruh tenant jangkar di sektor Entertainment berada dalam status CRITICAL RISK karena Rent-to-* Sales Ratio mereka melebihi 100% pada bulan Mei (biaya sewa lebih besar dari omzet).
+* Deteksi Tenant Churn: Pipeline database berhasil merekam dan menangani anomali penutupan toko secara proaktif (Tenant ID 104 & 125) dengan status Churned/Closed.
 
 ## Tech Stack
-Language: Python, SQL (Google Standard SQL)
-Cloud Data Warehouse: Google BigQuery Sandbox
-BI Tool: Power BI Desktop
+* Language: Python, SQL (Google Standard SQL)
+* Cloud Data Warehouse: Google BigQuery Sandbox
+* Dashboard: Power BI Desktop
 
 ## Dashboard Preview
 <img width="1128" height="636" alt="image" src="https://github.com/user-attachments/assets/358048d3-8e9d-4069-9ada-9e8ccfabac15" />
